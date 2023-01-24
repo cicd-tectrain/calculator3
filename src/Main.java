@@ -18,5 +18,11 @@ public class Main {
         double differenz= x - y;
         System.out.println(x + " - " + y + " = " + differenz);
 
+        double produkt = x * y;
+        System.out.println(x + " * " + y + " = " + produkt);
+
+        double quotient = x / y;
+        System.out.println(x + " / " + y + " = " + quotient);
+
     }
 }
