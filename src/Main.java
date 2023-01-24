@@ -15,7 +15,8 @@ public class Main {
         double summe = x + y;
         System.out.println(x + " + " + y + " = " + summe);
 
-
+        double differenz= x - y;
+        System.out.println(x + " - " + y + " = " + differenz);
 
     }
 }
